@@ -1,0 +1,22 @@
+c:\users\pablo amador solis\documents\visual studio 2010\Projects\MaestroProd\MaestroProd\bin\Debug\MaestroProd.exe
+c:\users\pablo amador solis\documents\visual studio 2010\Projects\MaestroProd\MaestroProd\bin\Debug\MaestroProd.pdb
+c:\users\pablo amador solis\documents\visual studio 2010\Projects\MaestroProd\MaestroProd\bin\Debug\MaestroProd.xml
+c:\users\pablo amador solis\documents\visual studio 2010\Projects\MaestroProd\MaestroProd\obj\x86\Debug\MaestroProd.MasProRep.resources
+c:\users\pablo amador solis\documents\visual studio 2010\Projects\MaestroProd\MaestroProd\obj\x86\Debug\MaestroProd.Resources.resources
+c:\users\pablo amador solis\documents\visual studio 2010\Projects\MaestroProd\MaestroProd\obj\x86\Debug\MaestroProd.vbproj.GenerateResource.Cache
+c:\users\pablo amador solis\documents\visual studio 2010\Projects\MaestroProd\MaestroProd\obj\x86\Debug\MaestroProd.exe
+c:\users\pablo amador solis\documents\visual studio 2010\Projects\MaestroProd\MaestroProd\obj\x86\Debug\MaestroProd.xml
+c:\users\pablo amador solis\documents\visual studio 2010\Projects\MaestroProd\MaestroProd\obj\x86\Debug\MaestroProd.pdb
+c:\users\pablo amador solis\documents\visual studio 2010\Projects\MaestroProd\MaestroProd\bin\Debug\MaestroProd.exe.config
+c:\users\pablo amador solis\documents\visual studio 2010\Projects\MaestroProd\MaestroProd\obj\x86\Debug\MaestroProd.vbprojResolveAssemblyReference.cache
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\MaestroProd\MaestroProd\bin\Debug\MaestroProd.exe.config
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\MaestroProd\MaestroProd\obj\x86\Debug\MaestroProd.exe
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\MaestroProd\MaestroProd\obj\x86\Debug\MaestroProd.xml
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\MaestroProd\MaestroProd\obj\x86\Debug\MaestroProd.pdb
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\MaestroProd\MaestroProd\bin\Debug\MaestroProd.exe
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\MaestroProd\MaestroProd\bin\Debug\MaestroProd.pdb
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\MaestroProd\MaestroProd\bin\Debug\MaestroProd.xml
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\MaestroProd\MaestroProd\obj\x86\Debug\MaestroProd.vbprojResolveAssemblyReference.cache
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\MaestroProd\MaestroProd\obj\x86\Debug\MaestroProd.MasProRep.resources
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\MaestroProd\MaestroProd\obj\x86\Debug\MaestroProd.Resources.resources
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\MaestroProd\MaestroProd\obj\x86\Debug\MaestroProd.vbproj.GenerateResource.Cache
